@@ -1,5 +1,7 @@
 @This is the first trial
 
+//bu değişimi de alabiliyor musun
+
 
 @ STM32F107 - Assembly template
 @ Turns on GPIOD Pin 1
