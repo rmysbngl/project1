@@ -63,5 +63,16 @@ _start:
 	STR R5, [R6]           @ Store back the result in GPIOD output data register
 
 loop:
+@merhabalar
+
+
+
+
+
+
+
+
+
+
 	NOP                    @ No operation. Do nothing. Just stay in the loop forever.
 	B loop
